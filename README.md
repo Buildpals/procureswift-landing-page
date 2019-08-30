@@ -1,2 +1,2 @@
-# procureswift-landing-page
-Version two of procure swift landing page
+# procureswift-v2
+Version two of procureswift website
